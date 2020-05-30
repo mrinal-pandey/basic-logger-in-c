@@ -4,7 +4,7 @@ A basic logger written for C
 To use the logger
 1. Clone the repository
 2. Add it to your project
-3. Change the `log_file_path` to point to the location where you want yourlog file, relative to home directory
+3. Change the `log_file_path` to point to the location where you want your log file, relative to home directory
 
 You're good to go!
 
